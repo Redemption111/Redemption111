@@ -17,7 +17,6 @@
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Data, ML & Databases
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -30,11 +29,9 @@
 
 ## 🌱 About Me
 
-I’m a student deeply interested in **computer science, problem-solving, and building technology that creates real-world impact**. My journey started with curiosity — experimenting with small programs — and grew into a passion for **algorithms, software engineering, and machine learning**.
+I’m currently an undergraduate Mathematics student at the University of Waterloo in Ontario, Canada. I've been programming in various languages for about 5 years now. I've always been deeply interested in exploring how **computer science and mathematics** can be used to create practical solutions to real-world problems. 
 
-Over time, I’ve worked on projects ranging from **desktop applications** to **machine learning models**, and I enjoy moving between theory and practice — whether that’s analyzing time complexity, designing clean abstractions, or turning an idea into working code.
-
-I’m especially interested in how **technology can be used to improve access, efficiency, and opportunity**, particularly in under-resourced communities.
+I love exploring a wide range of topics beside just programming, 
 
 ---
 
@@ -49,18 +46,8 @@ I’m especially interested in how **technology can be used to improve access, e
 - **NOI.PH 2024 National Finals** — *22 / 28*  
   https://noi.ph/2024-national-finals/
 
-- **NOI.PH 2025 National Finals** — *19 / 40* — **Honorable Mention**
+- **NOI.PH 2025 National Finals** — *19 / 40* — **Honorable Mention**  
   https://noi.ph/2025-national-finals/
-
-#### Elimination Rounds
-- **NOI.PH 2023 Elimination Round** — *31 / 271*  
-  https://noi.ph/2023-national-eliminations/
-
-- **NOI.PH 2024 Elimination Round** — *24 / 319*  
-  https://noi.ph/2024-national-eliminations/
-
-- **NOI.PH 2025 Elimination Round** — *39 / 216*  
-  https://noi.ph/2025-national-eliminations/
 ---
 
 - 🧠 Experience with:
